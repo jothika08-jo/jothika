@@ -1,0 +1,71 @@
+
+Software Testing:
+-----------------
+Software testing is the process of checking the quality, functionality, and performance of a software product before launching.
+
+Benefits:
+---------
+Early defect detection
+Product Quality Improves
+Cost-effective & Time
+More secure
+Performance improved
+Customer satisfaction
+
+
+Need for software testing:
+--------------------------
+
+Software bugs can cause potential monetary and human loss. 
+To avoid it we need software testing.
+
+Types of Software Testing:
+--------------------------
+
+1)Manual Testing
+2)Automation Testing
+
+Testing classified into two categories:
+---------------------------------------
+
+1)Functional Testing
+2)Non Functional Testing.
+
+Automation Testing:
+------------------
+
+we need one programming language - TypeScript (java, C#, Python)
+
+and We Need one Automation Tool Support - Playwright (UFT, Cypress, Selenium).
+
+
+Types of Software Application:
+------------------------------
+1)Web Application - using browser applications.
+2)Mobile Application - mobile installed applications.
+3)Desktop Application - desktop installed applications.
+
+
+Web Application:
+-----------------
+1)UI - User Interface
+2)UX  - User Experience
+
+UI - User Interface.
+	User interface (UI) refers to the interactivity, look, and feel of a product screen or web page.
+
+UX - User Experience
+	while user experience (UX) covers a user's overall experience with the product or website. 
+
+Three Phases:
+
+1.	Programming Language - TypeScript-1 Month
+2.	Automation Tool      - Playwright - 1 Month
+3.	Project Class        - Framework (Cucumber). 1 Month
+
+
+
+
+
+
+
